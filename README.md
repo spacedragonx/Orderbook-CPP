@@ -1,4 +1,4 @@
-# Orderbook-C++ Repository
+# Orderbook-C++
 
 ## Overview
 
